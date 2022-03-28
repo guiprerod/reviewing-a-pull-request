@@ -13,6 +13,6 @@ You can play the game at: https://githubschool.github.io/github-games/
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
 
->> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
+>> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_, and Others
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
